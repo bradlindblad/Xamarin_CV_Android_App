@@ -1,3 +1,3 @@
-# blog-samples
+# Xamarin Android Azure Custom Vision App
 
-This repo contains samples apps from various blog posts that I've written.
+forked from jimbobbenney
